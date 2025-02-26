@@ -1,4 +1,5 @@
 Diamond Price Prediction Model:-
+
 Technologies Used:
 Data Handling and Manipulation: Pandas and NumPy for data loading, cleaning, and transformation.
 Data Visualization: Matplotlib and Seaborn for creating visualizations like scatter plots, box plots, and heatmaps to gain insights into the data.
