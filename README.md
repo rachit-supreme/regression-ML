@@ -13,7 +13,7 @@ Numerical features were scaled using StandardScaler.
 Categorical features were encoded using OneHotEncoder/LabelEncoder.
 The model was trained on 75% of the data and tested on the remaining 25%.
 
-Accuracy:The model achieved an R-squared (R2) value of approximately 0.86. This suggests that the model can explain around 92% of the variance in diamond prices.
+Accuracy:The model achieved an R-squared (R2) value of approximately 0.89. This suggests that the model can explain around 92% of the variance in diamond prices.
 The Root Mean Squared Error (RMSE) is around 1478.32, suggesting an average prediction error of roughly 1478.
 
 Outcome:The project successfully built a diamond price prediction model using linear regression.
