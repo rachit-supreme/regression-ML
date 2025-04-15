@@ -18,7 +18,7 @@ This project implements a predictive model for diamond prices using the followin
 
 1. **Clone the repository:**
 ```bash
-git clone [repository-url]
+git clone https://github.com/rachit-supreme/regression-ML.git
 cd regression-ML
 ```
 
@@ -62,7 +62,7 @@ Task1_LR/
 │
 ├── diamonds.ipynb     # Main notebook with analysis and model
 ├── diamonds.csv       # Dataset file
-└── README.md         # Project documentation
+└── README.md          # Project documentation
 ```
 
 ## Running the Model
@@ -87,11 +87,6 @@ The notebook contains several key sections:
 4. **Evaluation:**
    - Calculates RMSE and R² score
    - Visualizes predictions vs actual values
-
-## Model Performance Metrics
-
-- R-squared (R²) score: 0.92
-- Root Mean Square Error (RMSE): ~$1,478.32
 
 ## Requirements
 
